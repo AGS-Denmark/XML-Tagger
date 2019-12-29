@@ -16,8 +16,8 @@ dependencies
 
 fype folowing commands in terminal:
 
-fsharpc -a XML-Tagger.fs
-fsharpc -r XML-Tagger.dll XMLrunner.fsx
-mono XMLrunner.exe
+- fsharpc -a XML-Tagger.fs
+- fsharpc -r XML-Tagger.dll XMLrunner.fsx
+- mono XMLrunner.exe
 
 the programe will guide you from here..
